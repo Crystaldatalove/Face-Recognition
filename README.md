@@ -1,4 +1,4 @@
-# Face-Recognition
+# Face-Recognition: Computer Vision with OpenCV
 
 Objective: we want to unlock your computer with your face by using Computer Vision with OpenCV.
 
